@@ -2,13 +2,10 @@
 format:
   html:
     page-layout: custom
+    margin-bottom: -100px
     toc: false
 ---
 
 ::: column-screen
 ![](images/corynactis.jpg)
 :::
-
-<center><font size=4px> <a href="https://github.com/ameliaritger/ameliaritger.github.io" target="_blank" style="color:#E84C22">Built</a> using <a href="https://quarto.org/" target="_blank" style="color:#39729E">Quarto </a> </font></center>
-
-### 

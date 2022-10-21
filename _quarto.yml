@@ -19,6 +19,14 @@ website:
         href: shiny.qmd
       - text: About
         href: about.qmd
+      - text: cvv
+        href: https://ameliaritger.github.io/CV/cv.pdf
+  page-footer: 
+    background: "#F0EBDE"
+    left: 
+      - "Copyright 2022, Amelia Ritger"
+    right:
+      - <a href="https://github.com/ameliaritger/ameliaritger.github.io" target="_blank" style="color:#E84C22">Designed</a> with <a href="https://quarto.org/" target="_blank" style="color:#39729E">Quarto </a>
 
 format:
   html:
@@ -30,7 +38,7 @@ format:
     fontsize: 1.3em
     backgroundcolor: "#F0EBDE"
     margin-top: -50px
-    margin-bottom: -150px
+    margin-bottom: -100px
     linkcolor: "#CE5638"
     linestretch: 1.25
     toc: true
