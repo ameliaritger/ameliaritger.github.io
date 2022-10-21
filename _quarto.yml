@@ -1,19 +1,38 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "ameliaritger.github.io"
+  title: "Amelia Ritger"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: "#F0EBDE"
+    foreground: "#000000"
+    search: true
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Shiny
+        href: shiny.qmd
+      - text: About
+        href: about.qmd
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - darkly
+    - custom.scss
+    mainfont: "optima"
+    fontcolor: "#000000"
+    fontsize: 1.3em
+    backgroundcolor: "#F0EBDE"
+    margin-top: -50px
+    margin-bottom: -150px
+    linkcolor: "#CE5638"
+    linestretch: 1.25
     toc: true
 
 editor: visual
-

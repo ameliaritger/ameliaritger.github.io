@@ -1,11 +1,14 @@
 ---
-title: "ameliaritger.github.io"
+format:
+  html:
+    page-layout: custom
+    toc: false
 ---
 
-This is a Quarto website.
+::: column-screen
+![](images/corynactis.jpg)
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<center><font size=4px> <a href="https://github.com/ameliaritger/ameliaritger.github.io" target="_blank" style="color:#E84C22">Built</a> using <a href="https://quarto.org/" target="_blank" style="color:#39729E">Quarto </a> </font></center>
 
-```{r}
-1 + 1
-```
+### 
