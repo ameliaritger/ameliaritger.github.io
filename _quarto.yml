@@ -19,8 +19,6 @@ website:
         href: shiny.qmd
       - text: About
         href: about.qmd
-      - text: cvv
-        href: CV/cv.pdf
   page-footer: 
     background: "#F0EBDE"
     left: 
@@ -37,8 +35,8 @@ format:
     fontcolor: "#000000"
     fontsize: 1.3em
     backgroundcolor: "#F0EBDE"
-    margin-top: -50px
-    margin-bottom: -100px
+    margin-top: -30px
+    margin-bottom: -10px
     linkcolor: "#CE5638"
     linestretch: 1.25
     toc: true
