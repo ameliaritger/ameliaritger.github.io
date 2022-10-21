@@ -35,12 +35,12 @@ format:
     - custom.scss
     mainfont: "optima"
     fontcolor: "#000000"
-    fontsize: 1.3em
+    fontsize: 1.2em
     backgroundcolor: "#F0EBDE"
     margin-top: -30px
     margin-bottom: -10px
     linkcolor: "#CE5638"
-    linestretch: 1.25
+    linestretch: 1.2
     toc: true
 
 editor: visual

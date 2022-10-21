@@ -2,13 +2,18 @@
 
 // general  
 $link-color: #88398a ;
+$toc-font-size: 50% ;
+$h1-font-size: 80% ;
+$h2-font-size: 50% ;
+$h3-font-size: 20% ;
 
 .navbar-brand {
     position: relative;
     left: 10px;
     background-size: contain;
+    font-size: larger;
 }
     
 .navbar-nav  {
-  font-size: 80%;
+  font-size: 90%;
 }
