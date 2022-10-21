@@ -11,7 +11,10 @@ $h3-font-size: 20% ;
     position: relative;
     left: 10px;
     background-size: contain;
-    font-size: larger;
+}
+
+.navbar-title {
+  font-size: 125%;
 }
     
 .navbar-nav  {
