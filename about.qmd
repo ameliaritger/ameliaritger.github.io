@@ -15,7 +15,7 @@ about:
     - icon: twitter 
       href: https://twitter.com/ameliaritger
     - text: CV
-      href: https://ameliaritger.github.io/CV/cv.pdf
+      href: "CV/cv.pdf"
       
 format: 
   html:

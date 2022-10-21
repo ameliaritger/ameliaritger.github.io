@@ -20,7 +20,7 @@ website:
       - text: About
         href: about.qmd
       - text: cvv
-        href: https://ameliaritger.github.io/CV/cv.pdf
+        href: CV/cv.pdf
   page-footer: 
     background: "#F0EBDE"
     left: 
