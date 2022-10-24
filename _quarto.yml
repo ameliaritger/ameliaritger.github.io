@@ -11,14 +11,12 @@ website:
     foreground: "#000000"
     search: true
     right:
-      - text: Research
+      - text: Research Areas
         href: research.qmd
-      - text: Teaching
-        href: teaching.qmd
+      - text: Projects
+        href: projects.qmd     
       - text: Publications
         href: publications.qmd
-      - text: Shiny
-        href: shiny.qmd
       - text: About
         href: about.qmd
   page-footer: 

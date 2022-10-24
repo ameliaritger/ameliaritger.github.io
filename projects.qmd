@@ -1,0 +1,22 @@
+---
+title: "Projects"
+page-layout: full
+editor: visual
+---
+
+## Shiny apps
+
+:::::::::::::: {.columns}
+
+::: {.column width="49%"}
+<p><a href="https://ameliaritger.shinyapps.io/mbon-shiny-app/" target="_blank"><img src="images/shiny-mbon.png" alt="Shiny App for the Marine Biodiversity Observation Network" width="90%"></a></p>
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+<p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"></a></p>
+:::
+
+::::::::::::::
