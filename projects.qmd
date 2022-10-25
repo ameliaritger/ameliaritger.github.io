@@ -1,6 +1,9 @@
 ---
 title: "Projects"
 page-layout: full
+format:
+  html:
+    toc: false
 editor: visual
 ---
 

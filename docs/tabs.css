@@ -1,0 +1,13 @@
+.panel-tabset .nav-tabs > li > a{
+  background-color: inherit !important;
+  color: #000000;
+}
+
+.panel-tabset .nav-tabs > li > a:hover{
+  background-color: #F0EBDE !important;
+  color: #88398A;
+}
+
+.panel-tabset .tab button {
+  cursor: pointer;
+}
