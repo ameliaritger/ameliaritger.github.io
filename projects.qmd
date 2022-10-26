@@ -23,3 +23,7 @@ editor: visual
 :::
 
 ::::::::::::::
+
+## Open-source pH sensor
+
+I am currently developing a low-cost, high-frequency, open-source intertidal pH sensor. Stay tuned for updates!

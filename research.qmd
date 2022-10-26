@@ -10,11 +10,11 @@ editor: visual
 ---
 
 ::: panel-tabset
-# Strawberry anemones
+# Marine Heatwaves
 
 I am using the strawberry anemone (*Corynactis californica*) to study the ecological consequences of intraspecific variation at the population level.
 
-![Red, pink, and orange strawberry anemones in the lab](/images/cory-lab.jpg)
+![*Red, pink, and orange strawberry anemones in the lab*](/images/cory-lab.jpg)
 
 Traditionally, ecologists have viewed between-species (interspecific) diversity as a crucial element of the natural world. However, we are increasingly recognizing the influence of within-species (intraspecific) diversity to ecosystem structure and community dynamics.
 
@@ -24,56 +24,87 @@ Variation between strawberry anemone colonies likely has important implications 
 
 Check out my Github repositories for my research-in-progress on *Corynactis californica* <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">here</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">here</a>.
 
-![Macro photo of a pink strawberry anemone polyp](/images/232o.jpg)
+![*Macro photo of a pink strawberry anemone polyp*](/images/232o.jpg)
 
-# Black turban snails
+# Ocean Acidification
 
 I am using the black turban snail (*Tegula funebralis*) to explore large-scale patterns of intraspecific variation.
 
-![A sunny California intertidal zone](/images/lol2.jpg)
+::: {.columns}
 
-*Tegula funebralis* exist across the California Current Large Marine Ecosystem, which extends from Baja California (Mexico) to British Columbia (Canada). Across this broad geographic range, *Tegula funebralis* populations are exposed to a mosaic of intertidal pH conditions (thanks to variable upwelling regimes) as well as different predator communities.
+::: {.column width="49%"}
+![*The intertidal zone at Bodega Bay, CA*](/images/bodega.jpg)
+:::
 
-Climate change is predicted to intensify upwelling and shift ecological communities, but there is limited research on how marine populations across the CCLME may differ in their response to OA and altered community structure.
+::: {.column width="2%"}
+:::
 
-My research explores how *Tegula funebralis* populations may be responding differently to variable pH conditions and predator communities across their range. This research will reveal how a species may vary in its vulnerability and resiliency to environmental change across its range, and may inform ecosystem management and conservation strategies in the context of future climate change scenarios.
+::: {.column width="49%"}
+![*The intertidal zone at Vandenberg SFB, CA*](/images/lol2.jpg)
+:::
+:::
 
-![A pile of hundreds of black turban snails in a tide pool](/images/tegula-many.jpg)
+Black turban snails (*Tegula funebralis*) exist across the California Current Large Marine Ecosystem, which extends from Baja California (Mexico) to British Columbia (Canada). Across this broad geographic range, snail populations are exposed to a mosaic of intertidal pH conditions as well as different predator communities.
 
-![](/images/bodega.jpg)
+Climate change is predicted to intensify upwelling and shift ecological communities, but there is limited research on how marine populations across the CCLME may differ in their response to ocean aidification and altered community structure.
 
-Check out current research being conducted by my fellow scientists in the Hofmann Lab at the University of California, Santa Barbara <a href="http://www.hofmannlab.com/" target="_blank">here</a>!
+My research explores how snail populations may be responding differently to variable pH conditions and predator communities across their range. This research will reveal how calcifying marine species may vary spatially in their vulnerability and resiliency to ocean acidification, and may inform ecosystem management and conservation strategies in the context of future climate change scenarios.
+
+<center><img src="/images/tegula.jpg" width="50%">
+<p style="margin:10px;"></p>
+<i>Hundreds of black turban snails in a tide pool
+</i>
+</center>
+
 
 # Past Research
 
 ::: panel-tabset
 ## Clonal raider ants
 
-As a research assistant in the <a href="https://www.rockefeller.edu/research/2280-kronauer-laboratory/" target="_blank">Kronauer Lab</a> at Rockefeller University, I worked on many projects developing the clonal raider ant (*Ooceraea biroi*) as a model organism to answer evolutionary, molecular, and neurobiological questions. One project sought to better understand the mechanistic basis of reproductive division of labor, the phenomenon attributed to eusocial insects (like bees, wasps, and ants) in which a single individual (the queen) lays eggs and all other individuals (the workers) carry out the other tasks necessary for the colony to function. For this project, I worked with graduate student Vikram Chandra and explored the role of a hormone - ILP2 (insulin-like peptide 2) - to the reproductive and brood-care phases of the clonal raider ant. We injected ants with ILP2 during their brood-care phase (when they shouldn't be reproducing) and measured significant oocyte activity (egg production). Coupled with transcriptomics and brain antibody staining, our study provides evidence for the importance of ILP2, nutrition, and larval signals to division of labor in eusocial organisms. You can read more about this research in the publication <a href="https://science.sciencemag.org/content/361/6400/398.full" target="_blank">here</a>.
+<center><img src="/images/ants.jpg" width="50%">
+<p style="margin:10px;"></p>
+<i>Clonal raider ants painted for behavioral tracking. Photo by Daniel Kronauer.
+</i>
+</center>
 
-![](/images/ovaries.png)
+As a research assistant in the <a href="https://www.rockefeller.edu/research/2280-kronauer-laboratory/" target="_blank">Kronauer Lab</a> at Rockefeller University, I worked on many projects developing the clonal raider ant (*Ooceraea biroi*) as a model organism to answer evolutionary, molecular, and neurobiological questions. One project sought to better understand the mechanistic basis of reproductive division of labor, the phenomenon attributed to eusocial insects (like bees, wasps, and ants) in which a single individual (the queen) lays eggs and all other individuals (the workers) carry out the other tasks necessary for the colony to function. For this project, I worked with graduate student Vikram Chandra and explored the role of a hormone - ILP2 (insulin-like peptide 2) - to the reproductive and brood-care phases of the clonal raider ant. We injected ants with ILP2 during their brood-care phase (when they shouldn't be reproducing) and measured significant oocyte activity (egg production). Coupled with transcriptomics and brain antibody staining, our study provides evidence for the importance of ILP2, nutrition, and larval signals to division of labor in eusocial organisms. You can read more about this research in the publication <a href="https://science.sciencemag.org/content/361/6400/398.full" target="_blank">here</a>.
 
 ## Invasive lionfish
 
-My research on invasive lionfish (*Pterois volitans/miles*) based out of the <a href="http://www.researchstationcarmabi.org/" target="_blank">Caribbean Marine Biological Institute</a> had two major focuses - **predator prey interactions** and **pollutant bioaccumulation**.
+<center><img src="/images/pro_amelia_lionfish.jpg" width="50%">
+<p style="margin:10px;"></p>
+<i>SCUBA diving with invasive lionfish. Photo by Turtle and Ray Productions.
+</i>
+</center>
+
+My research on invasive lionfish (*Pterois volitans/miles*) based out of the <a href="http://www.researchstationcarmabi.org/" target="_blank">Caribbean Marine Biological Institute</a> had two major focuses - predator prey interactions and pollutant bioaccumulation.
 
 ### Predator-prey interactions
 
-![](/images/enclosure.jpg)
-
 Invasive lionfish are creating extensive problems for many coral reef ecosystems by consuming massive numbers of reef fishes. Many scientists attribute this to the lionfish being a generalist predator - for example, when scientists dissect the stomachs of invasive lionfish across the Caribbean, they find a diversity of species (although some species are more common than others). I wanted to know if, when given a choice between prey items, lionfish are selective foragers. My field assistant extraordinaire, Tyler Fountain, and I stocked a large underwater enclosure containing an artificial reef with 3 prey species frequently consumed by invasive lionfish and observed what lionfish ate when released into the enclosures. Surprisingly, we found that lionfish consistently exhibited a preference for one prey species in particular - brown chromis. Knowing that lionfish exhibit active prey discrimination will help researchers better understand and predict the effects of lionfish on coral reef fish communities. You can learn more in the publication <a href="https://doi.org/10.1016/j.jembe.2020.151311" target="_blank">here</a>, the repository <a href="https://github.com/ameliaritger/lionfish-diet-choice" target="_blank">here</a>, and in a blog I maintained while working in Curaçao <a href="https://amelialillie.wordpress.com" target="_blank">here</a>.
 
-### Pollutant bioaccumulation
+<center><img src="/images/enclosure.jpg" width="50%">
+<p style="margin:10px;"></p>
+<i>Setting up experimental enclosures containing artificial reefs.
+</i>
+</center>
 
-![](/images/dissection.jpg)
+### Pollutant bioaccumulation
 
 One way that humans are fighting to control invasive lionfish on coral reefs is by eating them. Because lionfish are a mesopredator (one step below apex predators), they have the capacity to bioaccumulate high, and possibly dangerous, levels of pollutants such as mercury and other heavy metals. On the island of Curaçao, there is an oil refinery that releases contaminants into the air and marine environment. I collected hundreds of lionfish around Curaçao and analyzed their tissue for metal contaminants. Unsurprisingly, mercury concentrations were higher in larger fish, but mercury concentrations overall were well below the human health criterion established by the Environmental Protection Agency. Lionfish also contained low levels of other metals such as arsenic and selenium. These findings support continued - and enthusiastic - consumption of invasive lionfish as a sustainable and environmentally-beneficial source of protein and income for local communities and tourists. You can read more about this research <a href="https://doi.org/10.1016/j.marpolbul.2018.03.035" target="_blank">here</a> and <a href="https://amelialillie.wordpress.com" target="_blank">here</a>.
 
 ## Sea tomatoes
 
+<center><img src="/images/tomatoes.jpg" width="50%">
+<p style="margin:10px;"></p>
+<i>Sea Tomatoes from a lake in Greenland. Photo by Jessica Trout-Haney.
+</i>
+</center>
+
+
 As an undergraduate at Dartmouth, I worked with Jessica Trout-Haney in the <a href="https://sites.dartmouth.edu/CottinghamLab/" target="_blank">Cottingham Lab</a> on *Nostoc pruniforme* (known colloquially as the sea tomato), a benthic cyanobacteria found in ponds and lakes in Greenland. *Nostoc* can be incredibly dense in some lakes (over 9000/square meter) and likely contribute microcystins (a cyanotoxin) into aquatic ecosystems. Our study coupled observations and experiments to examine how *Nostoc* produce and release microcystins, and my focus was on how microcystin production varies throughout the colony. We found microcystins throughout the colony and observed undamaged colonies leaking microcystins into the surrounding water. Coupled with field observations of elevated microcystin concentrations around *Nostoc* colonies in Greenlandic lakes, these results provide strong evidence for *Nostoc pruniforme* as microcystin producers in Arctic freshwater ecosystems. Learn more about this research in the publication <a href="https://onlinelibrary.wiley.com/doi/10.1111/fwb.13636" target="_blank">here</a>.
 
-![](/images/elisa.jpg)
 :::
 
 :::
