@@ -28,8 +28,6 @@ website:
     background: "#F0EBDE"
     left: 
       - "Copyright 2022, Amelia Ritger"
-    center:
-      - <a href="#happyeaster"><font size="-1">Do you like dogs?</font></a><div id="happyeaster" class="flier"><img src="images/finley.png"/></div>
     right:
       - <a href="https://github.com/ameliaritger/ameliaritger.github.io" target="_blank" style="color:#E84C22">Designed</a> with <a href="https://quarto.org/" target="_blank" style="color:#39729E">Quarto </a>
   

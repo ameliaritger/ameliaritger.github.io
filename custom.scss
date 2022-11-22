@@ -42,6 +42,14 @@ h1 {
   }
 }
 
+#easter {
+  display: none;
+}
+
+#easter:target {
+  display: block;
+}
+
 .flier {
 	pointer-events: none;
 }
