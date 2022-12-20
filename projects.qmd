@@ -9,21 +9,21 @@ editor: visual
 
 ## Shiny apps
 
-:::::::::::::: {.columns}
-
+::: columns
 ::: {.column width="49%"}
-<p><a href="https://ameliaritger.shinyapps.io/mbon-shiny-app/" target="_blank"><img src="images/shiny-mbon.png" alt="Shiny App for the Marine Biodiversity Observation Network" width="90%"></a></p>
+<p><a href="https://ameliaritger.shinyapps.io/mbon-shiny-app/" target="_blank"><img src="images/shiny-mbon.png" alt="Shiny App for the Marine Biodiversity Observation Network" width="90%"/></a></p>
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="49%"}
-<p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"></a></p>
+<p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"/></a></p>
 :::
-
-::::::::::::::
+:::
 
 ## Open-source pH sensor
 
-I am currently developing a low-cost, high-frequency, open-source intertidal pH sensor. Stay tuned for updates!
+I am currently developing a low-cost, high-frequency, open-source intertidal pH sensor.
+
+The Github repository for this project can be found <a href="https://github.com/ameliaritger/ph-sensor-dev" target="_blank">here</a>. Stay tuned for updates!
