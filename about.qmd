@@ -1,7 +1,7 @@
 ---
 title: ""
 image: images/headshot_22.jpeg
-image-alt: "Amelia standing in front of a beach"
+image-alt: "Amelia standing in front of a California beach"
 about: 
   template: trestles
   image-shape: rounded
