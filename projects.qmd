@@ -24,6 +24,22 @@ editor: visual
 
 ## Open-source pH sensor
 
-I am currently developing a low-cost, high-frequency, open-source intertidal pH sensor.
+::: columns
+::: {.column width="49%"}
+I am currently developing a low-cost, high-frequency, open-source intertidal pH sensor in collaboration with Dr. David Burnett at Portland State University. I presented our initial results at OCEANS 2023 Limerick for the Student Poster Competition. The Github repository for this project can be found <a href="https://github.com/ameliaritger/arduino-ph-sensor" target="_blank">here</a>. Stay tuned for additional updates and publications!
 
-The Github repository for this project can be found <a href="https://github.com/ameliaritger/ph-sensor-dev" target="_blank">here</a>. Stay tuned for updates!
+<center><p><img src="images/arduino-comparison.jpg" alt="Arduino data logger next to a Madgetech data logger" width="80%"/></p></center>
+
+<i>New design data logger (left, black/blue) alongside old design data logger (right, green).</i>
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+<center><p><img src="images/amelia-ph-sensor.jpg" alt="Amelia holding a pH sensor housing in the rocky intertidal zone on a foggy morning." width="60%"/></p>
+
+<i>Ready to deploy a pH sensor at Point Grenville, WA.</i></center>
+
+:::
+:::

@@ -36,19 +36,19 @@ Check out my Github repositories for my research-in-progress on strawberry anemo
 
 # Ocean Acidification
 
-I am using the black turban snail (*Tegula funebralis*) to study the impacts of ocean acidification across species ranges. Turban snails are incredibly abundant in the intertidal zone, and they also are known to respond to acidic conditions with slower growth and weaker shells. 
+I am studying the effects of ocean acidification  on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are negatively affected by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
 
 ::: columns
 ::: {.column width="49%"}
 <center>
 
-<img src="/images/bodega.jpg" alt="a rocky intertidal zone with waves crashing and a hill in the distance" width="100%"/>
+<img src="/images/pt-grenville.jpg" alt="a rocky intertidal zone with clouds in the sky and sea stacks in the distance" width="100%"/>
 
 <p style="margin:10px;">
 
 </p>
 
-<i>The intertidal zone at Bodega Bay, CA.</i>
+<i>The rocky intertidal zone at Point Grenville, WA.</i>
 
 </center>
 :::
@@ -59,33 +59,31 @@ I am using the black turban snail (*Tegula funebralis*) to study the impacts of 
 ::: {.column width="49%"}
 <center>
 
-<img src="/images/lol2.jpg" alt="a rocky intertidal zone next to a churning ocean and cloudy sky" width="100%"/>
+<img src="/images/lol2.jpg" alt="A rocky intertidal zone next to a churning ocean and cloudy sky" width="100%"/>
 
 <p style="margin:10px;">
 
 </p>
 
-<i>The intertidal zone at Vandenberg SFB, CA.</i>
+<i>The rocky intertidal zone at Vandenberg SFB, CA.</i>
 
 </center>
 :::
 :::
 
-Black turban snails (*Tegula funebralis*) exist across the California Current Large Marine Ecosystem, which extends from Baja California (Mexico) to British Columbia (Canada). Across this broad geographic range, snail populations are exposed to a mosaic of acidic conditions (due to upwelling) as well as different predator communities.
+Across the California Current Large Marine Ecosystem, which extends from Baja California (Mexico) to British Columbia (Canada), marine species are exposed to a mosaic of acidic conditions (due to upwelling). Climate change is predicted to intensify upwelling and shift ecological communities, but there is limited research on how marine populations across the coastline may differ in their response to ocean acidification and altered community structure.
 
-Climate change is predicted to intensify upwelling and shift ecological communities, but there is limited research on how marine populations across the coastline may differ in their response to ocean acidification and altered community structure.
-
-My research using the turban snail explores how snail populations may be responding differently to variable pH conditions and predator communities across their range. This research will reveal how calcifying marine species may vary spatially in their vulnerability and resiliency to ocean acidification, and may inform ecosystem management and conservation strategies in the context of future climate change scenarios.
+My research uses these marine calcifiers to explore how different populations may be responding differently to variable pH conditions across their range. This research will reveal how calcifying marine species may vary spatially in their vulnerability and resiliency to ocean acidification, and will inform ecosystem management and conservation strategies in the context of future climate change scenarios.
 
 <center>
 
-<img src="/images/tegula.jpg" alt="a tidepool filled with black turban snails and surfgrass" width="50%"/>
+<img src="/images/amelia-taylor-point.jpg" alt="Amelia counting intertidal organisms within a quadrat with sea stacks on the horizon" width="50%"/>
 
 <p style="margin:10px;">
 
 </p>
 
-<i>Black turban snails at Jalama Beach, CA.</i>
+<i>Intertidal community studies in Olympic National Park, WA.</i>
 
 </center>
 
