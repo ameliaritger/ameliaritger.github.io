@@ -7,27 +7,11 @@ format:
 editor: visual
 ---
 
-## Shiny apps
-
-::: columns
-::: {.column width="49%"}
-<p><a href="https://ameliaritger.shinyapps.io/mbon-shiny-app/" target="_blank"><img src="images/shiny-mbon.png" alt="Shiny App for the Marine Biodiversity Observation Network" width="90%"/></a></p>
-:::
-
-::: {.column width="2%"}
-:::
-
-::: {.column width="49%"}
-<p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"/></a></p>
-:::
-:::
-
 ## Open-source pH sensor
 
 ::: columns
 ::: {.column width="49%"}
-I am currently developing a low-cost, high-frequency, open-source intertidal pH sensor in collaboration with Dr. David Burnett at Portland State University. I presented the first version of our design at OCEANS 2023 Limerick for the Student Poster Competition (and won first place!). The publication for this project can be found 
-<a href="https://ameliaritger.github.io/publications.html">here</a>, and the Github repository for this project can be found <a href="https://github.com/ameliaritger/arduino-ph-sensor" target="_blank">here</a>.
+I am currently developing a low-cost, Durafet-based intertidal pH sensor in collaboration with Dr. David Burnett at Portland State University. I presented the first version of our design at OCEANS 2023 Limerick for the Student Poster Competition (and won first place!). The publication for this project can be found <a href="https://ameliaritger.github.io/publications.html">here</a>, and the Github repository for this project can be found <a href="https://github.com/ameliaritger/arduino-ph-sensor" target="_blank">here</a>.
 
 We are currently working on a wireless-enabled, power-optimized version of the sensor. Stay tuned for additional updates and publications!
 
@@ -40,9 +24,27 @@ We are currently working on a wireless-enabled, power-optimized version of the s
 :::
 
 ::: {.column width="49%"}
-<center><p><img src="images/amelia-ph-sensor.jpg" alt="Amelia holding a pH sensor housing in the rocky intertidal zone on a foggy morning." width="60%"/></p>
+<center><p><img src="images/amelia-ph-sensor.jpg" alt="Amelia holding a pH sensor housing in the rocky intertidal zone on a foggy morning." width="70%"/></p>
 
 <i>Ready to deploy a pH sensor at Point Grenville, WA.</i></center>
 
+:::
+:::
+
+
+## Shiny apps
+
+<i>Click on the image to go to the app.</i>
+
+::: columns
+::: {.column width="49%"}
+<p><a href="https://ameliaritger.shinyapps.io/mbon-shiny-app/" target="_blank"><img src="images/shiny-mbon.png" alt="Shiny App for the Marine Biodiversity Observation Network" width="90%"/></a></p>
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+<p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"/></a></p>
 :::
 :::
