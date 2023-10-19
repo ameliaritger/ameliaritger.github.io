@@ -32,7 +32,11 @@ Ecologists are increasingly recognizing the influence of within-species (intrasp
 
 In the context of marine heatwaves, working with the strawberry anemone allows me to isolate the effect of intraspecific variation when studying species responses to environmental disturbance. Importantly, how individual strawberry anemones respond to marine heatwaves may have important implications for species persistence and resilience to future heatwave events.
 
-Check out my Github repositories for my research-in-progress on strawberry anemones <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">here</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">here</a>.
+I am using a Raspberry Pi to recreate marine heatwaves in the lab, and measure the impacts of different marine heatwave intensities on strawberry anemones. 
+
+Check out my Github repository for my research-in-progress on strawberry anemones 
+<a href="https://github.com/ameliaritger/MHWsim
+" target="_blank">here</a>. You can find my previous research <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">here</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">here</a>.
 
 # Ocean Acidification
 
