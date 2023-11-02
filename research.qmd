@@ -32,15 +32,11 @@ Ecologists are increasingly recognizing the influence of within-species (intrasp
 
 In the context of marine heatwaves, working with the strawberry anemone allows me to isolate the effect of intraspecific variation when studying species responses to environmental disturbance. Importantly, how individual strawberry anemones respond to marine heatwaves may have important implications for species persistence and resilience to future heatwave events.
 
-I am using a Raspberry Pi to recreate marine heatwaves in the lab, and measure the impacts of different marine heatwave intensities on strawberry anemones. 
-
-Check out my Github repository for my research-in-progress on strawberry anemones 
-<a href="https://github.com/ameliaritger/MHWsim
-" target="_blank">here</a>. You can find my previous research <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">here</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">here</a>.
+I am using a Raspberry Pi to recreate marine heatwaves in the lab, and measure the impacts of different marine heatwave intensities on strawberry anemones. Check out my Github repository for my research-in-progress on strawberry anemones <a href="https://github.com/ameliaritger/MHWsim" target="_blank">here</a>. You can find my previous research <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">here</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">here</a>.
 
 # Ocean Acidification
 
-I am studying the effects of ocean acidification  on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are negatively affected by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
+I am studying the effects of ocean acidification  on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are harmed by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
 
 ::: columns
 ::: {.column width="49%"}
@@ -90,6 +86,8 @@ My research uses these marine calcifiers to explore how different populations ma
 <i>Intertidal community studies in Olympic National Park, WA.</i>
 
 </center>
+
+I am also developing a low-cost, open-source pH sensor using the Honeywell DuraFET pH electrode and an Arduino datalogger board. Check out my <a href="https://ameliaritger.github.io/projects.html" target="_blank">Projects</a> for more information on progress to date.
 
 # Past Research
 
