@@ -15,7 +15,11 @@ I am currently developing a low-cost, Durafet-based intertidal pH sensor in coll
 
 We are currently working on a wireless-enabled, power-optimized version of the sensor. Stay tuned for additional updates and publications!
 
-<center><p><img src="images/arduino-comparison.jpg" alt="Arduino data logger next to a Madgetech data logger" width="80%"/></p></center>
+<center>
+
+<p><img src="images/arduino-comparison.jpg" alt="Arduino data logger next to a Madgetech data logger" width="80%"/></p>
+
+</center>
 
 <i>New design data logger (left, black/blue) alongside old design data logger (right, green).</i>
 :::
@@ -24,13 +28,15 @@ We are currently working on a wireless-enabled, power-optimized version of the s
 :::
 
 ::: {.column width="49%"}
-<center><p><img src="images/amelia-ph-sensor.jpg" alt="Amelia holding a pH sensor housing in the rocky intertidal zone on a foggy morning." width="70%"/></p>
+<center>
 
-<i>Ready to deploy a pH sensor at Point Grenville, WA.</i></center>
+<p><img src="images/amelia-ph-sensor.jpg" alt="Amelia holding a pH sensor housing in the rocky intertidal zone on a foggy morning." width="70%"/></p>
 
+<i>Ready to deploy a pH sensor at Point Grenville, WA.</i>
+
+</center>
 :::
 :::
-
 
 ## Shiny apps
 
