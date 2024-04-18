@@ -13,6 +13,8 @@ about:
       href: https://scholar.google.com/citations?user=fTXo-jMAAAAJ&hl=en&oi=ao
     - icon: github 
       href: https://github.com/ameliaritger
+    - icon: linkedin 
+      href: https://linkedin.com/in/amelia-ritger-b17a23304   
     - icon: twitter 
       href: https://twitter.com/ameliaritger
     - text: CV
