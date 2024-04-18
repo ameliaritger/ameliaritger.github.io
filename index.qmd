@@ -8,5 +8,5 @@ format:
 ::: column-screen
 <img src="/images/corynactis.jpg" alt="Bright orange, red, and pink strawberry anemones in a tank" width="100%"/>
 <br/>
-<a href="#easter"><center><font size="-1">Do you like to party?</font></center></a><div id="easter" class="flier"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"/></div>
+<a href="#easter"><center><font size="-1">Singapore Singapore Singapore</font></center></a><div id="easter" class="flier"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"/></div>
 :::
