@@ -5,7 +5,7 @@ toc: false
 editor: visual
 ---
 
-**Ritger, A.L.** and Burnett, D.C. 2024. <a href="https://ieeexplore.ieee.org/document/10682142" target="_blank">A Wirelessly-Enabled, Power-Optimized, Low-Cost, and Open-Source Durafet-based pH Instrument for Continuous, Long Term Environmental Monitoring. OCEANS 2024 - Singapore. 1-6. <a href="files/Ritger-and-Burnett-2024.pdf" target="_blank">PDF</a>
+**Ritger, A.L.** and Burnett, D.C. 2024. <a href="https://ieeexplore.ieee.org/document/10682142" target="_blank">A Wirelessly-Enabled, Power-Optimized, Low-Cost, and Open-Source Durafet-based pH Instrument for Continuous, Long Term Environmental Monitoring.</a> OCEANS 2024 - Singapore. 1-6. <a href="files/Ritger-and-Burnett-2024.pdf" target="_blank">PDF</a>
 
 **Ritger, A.L.** and Burnett, D.C. 2023. <a href="https://ieeexplore.ieee.org/document/10244512" target="_blank">Developing Low-Cost, Simplified, and Open-Source Durafet-based pH Instrument Electronics.</a> OCEANS 2023 - Limerick, Limerick, Ireland. 1-7. <a href="files/Ritger-and-Burnett-2023.pdf" target="_blank">PDF</a>
 
