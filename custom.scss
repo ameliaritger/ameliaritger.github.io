@@ -106,3 +106,40 @@ h1 {
 		transform: translateX(10vw) translateY(100vh) rotateZ(0deg)
 	}
 }
+
+/* Mobile-specific styles */
+@media only screen and (max-width: 600px) {
+    body {
+        padding: 10px; /* Adjust padding for mobile */
+        font-size: 16px; /* Comfortable font size */
+    }
+
+    h1 {
+        font-size: 24px; /* Smaller heading size for mobile */
+    }
+
+    .navbar-title {
+        font-size: 100%; /* Adjust navbar title size */
+    }
+
+    .navbar-nav {
+        font-size: 80%; /* Adjust navbar font size */
+    }
+
+    .container {
+        display: block; /* Change layout for smaller screens */
+        padding: 5px; /* Adjust container padding */
+    }
+
+    /* Adjust buttons */
+    .button {
+        width: 100%; /* Make buttons full width */
+        padding: 10px; /* Easier tapping */
+    }
+
+    /* Responsive images */
+    img {
+        max-width: 100%; /* Ensure images are responsive */
+        height: auto; /* Maintain aspect ratio */
+    }
+}
