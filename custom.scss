@@ -131,9 +131,9 @@ h1 {
     // Maintain aspect
         width: auto;
         height: auto;
-        max-width: none; /* Remove max-width restriction */
-        max-height: none; /* Remove max-height restriction */
-        min-height: 100vh;
+        //max-width: none; /* Remove max-width restriction */
+        //max-height: none; /* Remove max-height restriction */
+        //min-height: 100vh;
         object-fit: cover; /* Crop image if necessary */
         position: absolute; /* Position absolute to ensure full coverage */
         top: 0; /* Align to the top */
