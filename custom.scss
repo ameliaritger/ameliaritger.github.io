@@ -135,7 +135,8 @@ h1 {
         //max-height: none; /* Remove max-height restriction */
         //min-height: 100vh;
         object-fit: cover; /* Crop image if necessary */
-        position: absolute; /* Position absolute to ensure full coverage */
+        position: relative; /* Position absolute to ensure full coverage */
+        display: block;
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
         transform: translateX(-50%); /* Center using transform */
