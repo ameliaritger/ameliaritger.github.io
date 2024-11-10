@@ -128,10 +128,14 @@ h1 {
 /* Mobile-specific styles */
 @media only screen and (max-width: 600px) {
   .landing-image {
-        width: 100%;
-        //height: auto;
-        max-height: 100vh; /* Adjust max width for mobile */
-        object-fit: cover; /* Crop the image */
+        width: auto;
+        height: 100vh;
+        max-width: none; /* Remove max-width restriction */
+        object-fit: cover; /* Crop image if necessary */
+        position: absolute; /* Position absolute to ensure full coverage */
+        top: 0; /* Align to the top */
+        left: 50%; /* Center horizontally */
+        transform: translateX(-50%); /* Center using transform */
     }
     
     body {
