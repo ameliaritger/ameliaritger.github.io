@@ -6,7 +6,7 @@ format:
 ---
 
 ::: column-screen
-<img src="/images/corynactis.jpg" alt="Bright orange, red, and pink strawberry anemones in a tank" width="100%"/> <br/> <a href="#easter">
+<img src="/images/corynactis.jpg" alt="Bright orange, red, and pink strawberry anemones in a tank" class="landing-image" width="100%"/> <br/> <a href="#easter">
 
 <center><font size="-1">Do you like to party?</font></center>
 

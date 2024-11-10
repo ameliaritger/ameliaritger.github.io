@@ -107,8 +107,21 @@ h1 {
 	}
 }
 
+
+/* Styles for landing page image */
+.landing-image {
+    width: 100%; /* Make the image responsive */
+    max-width: 1600px; /* Set a maximum width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 20px auto; /* Center the image with margin */
+}
+
 /* Mobile-specific styles */
 @media only screen and (max-width: 600px) {
+  .landing-image {
+        max-width: 100%; /* Adjust max width for mobile */
+    }
+    
     body {
         padding: 10px; /* Adjust padding for mobile */
         font-size: 16px; /* Comfortable font size */
