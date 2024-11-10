@@ -137,9 +137,10 @@ h1 {
         object-fit: cover; /* Crop image if necessary */
         position: relative; /* Position absolute to ensure full coverage */
         display: block;
-        top: 0; /* Align to the top */
-        left: 50%; /* Center horizontally */
-        transform: translateX(-50%); /* Center using transform */
+        margin: 0 auto;
+        //top: 0; /* Align to the top */
+        //left: 50%; /* Center horizontally */
+        //transform: translateX(-50%); /* Center using transform */
     }
     
     body {
