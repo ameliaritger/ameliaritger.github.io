@@ -130,8 +130,7 @@ h1 {
   .landing-image {
         width: auto; /* Allow the image to maintain its original width */
         height: auto; /* Set height to fill the viewport height */
-        max-height: none;
-        max-width: 100vw; /* Remove any width restrictions */
+        max-width: 50vw; /* Remove any width restrictions */
         position: absolute; /* Position absolutely */
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
