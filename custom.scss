@@ -114,7 +114,6 @@ h1 {
     //max-width: 1600px; /* Set a maximum width */
     //height: auto; /* Maintain aspect ratio */
     //margin: 20px auto; /* Center the image with margin */
-    
     width: 100%; /* Maintain original width */
     height: auto; /* Maintain original height */
     max-width: 1600px; /* Limit to the width of the container */
@@ -130,7 +129,8 @@ h1 {
   .landing-image {
         width: auto; /* Allow the image to maintain its original width */
         height: auto; /* Set height to fill the viewport height */
-        //max-height: 50vh; /* Remove any width restrictions */
+        max-height: 100vh; /* Remove any width restrictions */
+        max-width: 100vw;
         position: absolute; /* Position absolutely */
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
