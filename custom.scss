@@ -130,7 +130,7 @@ h1 {
   .landing-image {
         width: auto;
         height: auto;
-        max-width: none; /* Remove max-width restriction */
+        //max-width: none; /* Remove max-width restriction */
         max-height: none; /* Remove max-height restriction */
         min-height: 100vh;
         object-fit: cover; /* Crop image if necessary */
