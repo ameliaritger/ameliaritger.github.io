@@ -129,7 +129,7 @@ h1 {
 @media only screen and (max-width: 600px) {
   .landing-image {
     // Maintain aspect
-        width: auto;
+        width: 100vw;
         height: auto;
         max-width: 100vw; /* Remove max-width restriction */
         max-height: 100vh; /* Remove max-height restriction */
