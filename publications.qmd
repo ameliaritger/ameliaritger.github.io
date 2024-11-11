@@ -14,7 +14,7 @@ Ingeman, K.E., Zhao, L.Z., Wolf, C., Williams, D.R., **Ritger, A.L.**, Ripple, W
 Trout-Haney, J.V., **Ritger, A.L.**, and Cottingham, K.L. 2021. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13636
 " target="_blank">Benthic cyanobacteria of the genus *Nostoc* are a source of microcystins in Greenlandic lakes and ponds.</a> Freshwater Biology 66: 266-277. <a href="files/Trout-Haney2020_FreshwaterBiology.pdf" target="_blank">PDF</a>
 
-**Ritger, A.L.**, Fountain, T.C., and Pierotti, M.E.R. 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098119303296" target="_blank">Diet choice in a generalist predator, the invasive lionfish (*Pterois volitans/miles*).</a> Journal of Experimental Marine Biology and Ecology 524: 151311. <a href="files/Ritger et al 2020_JEMBE.pdf" target="_blank">PDF</a>
+**Ritger, A.L.**, Fountain, T.C., Bourne, K., Martín-Fernández, J.A., and Pierotti, M.E.R. 2020. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022098119303296" target="_blank">Diet choice in a generalist predator, the invasive lionfish (*Pterois volitans/miles*).</a> Journal of Experimental Marine Biology and Ecology 524: 151311. `<a href="files/Ritger et al 2020_JEMBE.pdf" target="_blank"`{=html}
 
 Chandra, V., Fetter-Pruneda, I., Oxley, P.R., **Ritger, A.L.**, McKenzie, S.K., Libbrecht, R., and Kronauer, D.J.C. 2018. <a href="https://www.science.org/doi/10.1126/science.aar5723" target="_blank">Social regulation of insulin signaling and the evolution of eusociality in ants.</a> Science 361(6400): 398-402. <a href="files/Chandra et al 2018_Science.pdf" target="_blank">PDF</a>
 
