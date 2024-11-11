@@ -21,20 +21,6 @@
     "text": "Open-source pH sensorMarine Heatwave SimulatorShiny apps\n\n\n\n\nI am collaborating with Dr. David Burnett at Portland State University to develop a low-cost, Durafet-based intertidal pH sensor. I presented the first version of our design at OCEANS 2023 Limerick for the Student Poster Competition (and won first place!). The second iteration of our design included wireless capabilities and was more power optimized, and I presented at OCEANS 2024 Singapore. The publications for this project can be found here, and the Github repository for this project can be found here.\n\n\n\n\n\nNew design data logger (left, black/blue) alongside old design data logger (right, green).\n\n\n\n\n\n\n\nReady to deploy a pH sensor at Point Grenville, WA.\n\n\n\n\n\nContent here.\n\n\nClick on the image to go to the app."
   },
   {
-    "objectID": "projects.html#open-source-ph-sensor",
-    "href": "projects.html#open-source-ph-sensor",
-    "title": "Projects",
-    "section": "",
-    "text": "I am collaborating with Dr. David Burnett at Portland State University to develop a low-cost, Durafet-based intertidal pH sensor. I presented the first version of our design at OCEANS 2023 Limerick for the Student Poster Competition (and won first place!). The second iteration of our design included wireless capabilities and was more power optimized, and I presented at OCEANS 2024 Singapore. The publications for this project can be found here, and the Github repository for this project can be found here.\n\n\n\n\n\nNew design data logger (left, black/blue) alongside old design data logger (right, green).\n\n\n\n\n\n\n\nReady to deploy a pH sensor at Point Grenville, WA."
-  },
-  {
-    "objectID": "projects.html#shiny-apps",
-    "href": "projects.html#shiny-apps",
-    "title": "Projects",
-    "section": "Shiny apps",
-    "text": "Shiny apps\nClick on the image to go to the app."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
