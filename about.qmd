@@ -25,15 +25,6 @@ format:
     page-layout: full
 ---
 
-<!--
-<br />
-[<font size="+10">Hi I'm Amelia Ritger!!</font>]{.blink}
--->
-
 I am a PhD Candidate in the <a href="http://www.hofmannlab.com/" target="_blank">Hofmann Lab</a> in Ecology, Evolution, and Marine Biology at UC Santa Barbara. Prior to joining the graduate program at UCSB, I worked as a research assistant with the <a href="https://www.rockefeller.edu/research/2280-kronauer-laboratory/" target="_blank">Kronauer Lab</a> at Rockefeller University and as an independent scientist at the <a href="http://www.researchstationcarmabi.org/" target="_blank">Caribbean Marine Biological Institute</a> in Curaçao. I received my BA from Dartmouth College, where I was able to develop my love for Ecology and realize a new interest in Anthropology.
 
 While I have explored a variety of questions in an array of systems, my current research uses the strawberry anemone (*Corynactis californica*), the Pacific razor clam (*Siliqua patula*), and the purple olive snail (*Callianax biplicata*) to better understand the role of intraspecific variation and local adaptation in species responses to climate change events. I am an experimental ecologist at heart, happiest when I am exploring out in the field and making new discoveries in the lab.
-
-<!--
-<script src="konami.js"></script>
--->
