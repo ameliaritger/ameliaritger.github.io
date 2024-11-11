@@ -16,5 +16,4 @@ format:
 
 ::: {#easter .flier}
 <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"/>
-:::
 ::::

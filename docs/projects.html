@@ -68,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="tabs.css">
 </head>
 
 <body class="nav-fixed">
@@ -114,7 +115,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
@@ -137,8 +140,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="open-source-ph-sensor" class="level2">
-<h2 class="anchored" data-anchor-id="open-source-ph-sensor">Open-source pH sensor</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Open-source pH sensor</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Marine Heatwave Simulator</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Shiny apps</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
 <div class="columns">
 <div class="column" style="width:49%;">
 <p>I am collaborating with Dr.&nbsp;David Burnett at Portland State University to develop a low-cost, Durafet-based intertidal pH sensor. I presented the first version of our design at OCEANS 2023 Limerick for the Student Poster Competition (and won first place!). The second iteration of our design included wireless capabilities and was more power optimized, and I presented at OCEANS 2024 Singapore. The publications for this project can be found <a href="https://ameliaritger.github.io/publications.html">here</a>, and the Github repository for this project can be found <a href="https://github.com/ameliaritger/arduino-ph-sensor" target="_blank">here</a>.</p>
@@ -159,9 +164,11 @@ ul.task-list li input[type="checkbox"] {
 </center>
 </div>
 </div>
-</section>
-<section id="shiny-apps" class="level2">
-<h2 class="anchored" data-anchor-id="shiny-apps">Shiny apps</h2>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p>Content here.</p>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
 <p><i>Click on the image to go to the app.</i></p>
 <div class="columns">
 <div class="column" style="width:49%;">
@@ -177,9 +184,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 
-<p>:::</p>
-
-</section>
+</div>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

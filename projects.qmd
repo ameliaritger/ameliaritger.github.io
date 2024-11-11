@@ -1,13 +1,16 @@
 ---
 title: "Projects"
 page-layout: full
+toc: true
 format:
   html:
-    toc: false
+    css: tabs.css
+
 editor: visual
 ---
 
-## Open-source pH sensor
+:::::::: panel-tabset
+# Open-source pH sensor
 
 :::::: columns
 ::: {.column width="49%"}
@@ -36,7 +39,11 @@ I am collaborating with Dr. David Burnett at Portland State University to develo
 :::
 ::::::
 
-## Shiny apps
+# Marine Heatwave Simulator
+
+Content here.
+
+# Shiny apps
 
 <i>Click on the image to go to the app.</i>
 
@@ -50,5 +57,4 @@ I am collaborating with Dr. David Burnett at Portland State University to develo
 
 ::: {.column width="49%"}
 <p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"/></a></p>
-:::
 ::::::
