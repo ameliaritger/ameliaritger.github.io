@@ -36,7 +36,7 @@ I am using a Raspberry Pi to recreate marine heatwaves in the lab, and measure t
 
 # Ocean Acidification
 
-I am studying the effects of ocean acidification  on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are harmed by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
+I am studying the effects of ocean acidification on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are harmed by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
 
 ::: columns
 ::: {.column width="49%"}
