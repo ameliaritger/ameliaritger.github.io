@@ -141,16 +141,16 @@ h1 {
         //display: block;
         //margin: 0 auto;
         //position: relative; /* Position absolute to ensure full coverage */
-        //position: absolute; /* Position absolute to ensure full coverage */
+        position: absolute; /* Position absolute to ensure full coverage */
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
         //transform: translateX(-50%); /* Center using transform */
     }
     
     body {
-        margin: 0; /* Remove default margin */
+        margin: 10px; /* Remove default margin */
         //padding: 0; /* Remove default padding */
-        padding: 100px; /* Adjust padding for mobile */
+        padding: 10px; /* Adjust padding for mobile */
         font-size: 16px; /* Comfortable font size */
     }
 
