@@ -9,7 +9,7 @@ format:
 editor: visual
 ---
 
-:::::::: panel-tabset
+::::::::::: panel-tabset
 # Open-source pH sensor
 
 :::::: columns
@@ -57,4 +57,6 @@ Content here.
 
 ::: {.column width="49%"}
 <p><a href="https://ameliaritger.shinyapps.io/intertidal-oa-module/" target="_blank"><img src="images/shiny-oa-module.png" alt="Shiny App for the Ocean Acidification Learning Module" width="100%"/></a></p>
+:::
 ::::::
+:::::::::::
