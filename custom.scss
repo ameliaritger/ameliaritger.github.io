@@ -27,7 +27,6 @@ h1 {
 }
 
 body {
-  margin-top: 20px; /* Add space between navbar and body */
   padding-bottom: 20px; /* Optional: to ensure there's space between body content and footer */
 }
 
@@ -158,6 +157,7 @@ footer {
     
     body {
         padding: 10px; /* Adjust padding for mobile */
+        margin-top: 20px; /* Add space between navbar and body */
         font-size: 16px; /* Comfortable font size */
     }
 
