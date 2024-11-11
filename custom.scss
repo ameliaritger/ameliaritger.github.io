@@ -148,13 +148,14 @@ h1 {
     }
     
     body {
-        margin: 10px; /* Remove default margin */
+        //margin: 0; /* Remove default margin */
         //padding: 0; /* Remove default padding */
         padding: 10px; /* Adjust padding for mobile */
         font-size: 16px; /* Comfortable font size */
     }
 
     h1 {
+        margin-top: 20px; /* Adjust the value as needed */
         font-size: 24px; /* Smaller heading size for mobile */
     }
 
