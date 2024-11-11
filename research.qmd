@@ -9,7 +9,7 @@ format:
 editor: visual
 ---
 
-::: panel-tabset
+:::::::: panel-tabset
 # Marine Heatwaves
 
 I am using the strawberry anemone (*Corynactis californica*) to study the impacts of marine heatwaves on marine populations. The strawberry anemone is a powerful model for studying individual variation in responses to climate change thanks to one particular species characteristic - they're clonal!
@@ -38,7 +38,7 @@ I am using a Raspberry Pi to recreate marine heatwaves in the lab, and measure t
 
 I am studying the effects of ocean acidification on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are harmed by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
 
-::: columns
+:::::: columns
 ::: {.column width="49%"}
 <center>
 
@@ -69,7 +69,7 @@ I am studying the effects of ocean acidification on ecological, economic, and cu
 
 </center>
 :::
-:::
+::::::
 
 Across the California Current Large Marine Ecosystem, which extends from Baja California (Mexico) to British Columbia (Canada), marine species are exposed to a mosaic of acidic conditions (due to upwelling). Climate change is predicted to intensify upwelling and shift ecological communities, but there is limited research on how marine populations across the coastline may differ in their response to ocean acidification and altered community structure.
 
@@ -160,4 +160,4 @@ One way that humans are fighting to control invasive lionfish on coral reefs is 
 
 As an undergraduate at Dartmouth, I worked with Jessica Trout-Haney in the <a href="https://sites.dartmouth.edu/CottinghamLab/" target="_blank">Cottingham Lab</a> on *Nostoc pruniforme* (known colloquially as the sea tomato), a benthic cyanobacteria found in ponds and lakes in Greenland. *Nostoc* can be incredibly dense in some lakes (over 9000/square meter) and likely contribute microcystins (a cyanotoxin) into aquatic ecosystems. Our study coupled observations and experiments to examine how *Nostoc* produce and release microcystins, and my focus was on how microcystin production varies throughout the colony. We found microcystins throughout the colony and observed undamaged colonies leaking microcystins into the surrounding water. Coupled with field observations of elevated microcystin concentrations around *Nostoc* colonies in Greenlandic lakes, these results provide strong evidence for *Nostoc pruniforme* as microcystin producers in Arctic freshwater ecosystems. Learn more about this research in the publication <a href="https://onlinelibrary.wiley.com/doi/10.1111/fwb.13636" target="_blank">here</a>.
 :::
-:::
+::::::::
