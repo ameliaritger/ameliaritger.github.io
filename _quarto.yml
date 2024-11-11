@@ -3,6 +3,9 @@ project:
   output-dir: docs
   resources:
     - "files/cv.pdf"
+    - "files/Ritger-and-Burnett-2024.pdf"
+    - "files/Ritger-and-Burnett-2023.pdf"
+    - "files/Hart-et-al-2023.pdf"
     - "files/Ingeman_et_al-2022-Scientific_Reports.pdf"
     - "files/Chandra et al 2018_Science.pdf"
     - "files/Ritger et al 2018_MPB.pdf"
@@ -27,7 +30,7 @@ website:
   page-footer: 
     background: "#F0EBDE"
     left: 
-      - "Copyright 2022, Amelia Ritger"
+      - "Copyright 2024, Amelia Ritger"
     right:
       - <a href="https://github.com/ameliaritger/ameliaritger.github.io" target="_blank" style="color:#E84C22">Designed</a> with <a href="https://quarto.org/" target="_blank" style="color:#39729E">Quarto </a>
   
