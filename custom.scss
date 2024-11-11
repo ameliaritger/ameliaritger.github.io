@@ -128,7 +128,6 @@ h1 {
 /* Mobile-specific styles */
 @media only screen and (max-width: 600px) {
   .landing-image {
-    // Maintain aspect
         width: auto;
         height: auto;
         //max-width: 100vw; 
@@ -148,8 +147,6 @@ h1 {
     }
     
     body {
-        //margin: 0; /* Remove default margin */
-        //padding: 0; /* Remove default padding */
         padding: 10px; /* Adjust padding for mobile */
         font-size: 16px; /* Comfortable font size */
     }
