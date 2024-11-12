@@ -141,7 +141,7 @@ footer {
     
     body {
         //padding-top: 10px; /* Adjust padding for mobile */
-        margin-top: 100px; /* Add space between navbar and body */
+        //margin-top: 10px; /* Add space between navbar and body */
         font-size: 16px; /* Comfortable font size */
     }
 
@@ -164,7 +164,7 @@ footer {
         top: 0;
         width: 100%;
         z-index: 999;
-        //margin-top: -30px; /* Remove any extra margin */
+        margin-bottom: 30px; /* Remove any extra margin */
     }
 
     .container {
