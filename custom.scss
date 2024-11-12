@@ -140,7 +140,7 @@ footer {
         width: 100vw;
         height: 100vh;
         object-fit: cover; /* Crop image if necessary */
-        position: absolute; /* Position absolute to ensure full coverage */
+        position: fixed; /* Position absolute to ensure full coverage */
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
         transform: translateX(-50%); /* Center using transform */
