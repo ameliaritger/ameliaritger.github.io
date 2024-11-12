@@ -1,5 +1,5 @@
 ---
-title: "Research Areas"
+title: "Research"
 page-layout: full
 toc: true
 format:
@@ -9,7 +9,7 @@ format:
 editor: visual
 ---
 
-:::::::: panel-tabset
+::: panel-tabset
 # Marine Heatwaves
 
 I am using the strawberry anemone (*Corynactis californica*) to study the impacts of marine heatwaves on marine populations. The strawberry anemone is a powerful model for studying individual variation in responses to climate change thanks to one particular species characteristic - they're clonal!
@@ -40,7 +40,7 @@ You can find my Github repository for my research-in-progress on strawberry anem
 
 I am studying the effects of ocean acidification on ecological, economic, and culturally-significant marine calcifiers such as the Pacific razor clam (*Siliqua patula*), the purple olive snail (*Callianax biplicata*), and the black turban snail (*Tegula funebralis*). These calcifying species are harmed by acidic waters; however, we do not yet fully understand the extent to which all populations across their distributed range are impacted by ocean acidification.
 
-:::::: columns
+::: columns
 ::: {.column width="49%"}
 <center>
 
@@ -71,7 +71,7 @@ I am studying the effects of ocean acidification on ecological, economic, and cu
 
 </center>
 :::
-::::::
+:::
 
 Across the California Current Large Marine Ecosystem, which extends from Baja California (Mexico) to British Columbia (Canada), marine species are exposed to a mosaic of acidic conditions (due to upwelling). Climate change is predicted to intensify upwelling and shift ecological communities, but there is limited research on how marine populations across the coastline may differ in their response to ocean acidification and altered community structure.
 
@@ -170,4 +170,4 @@ As an undergraduate at Dartmouth, I worked with Jessica Trout-Haney in the <a hr
 
 Learn more about this research in the publication <a href="https://onlinelibrary.wiley.com/doi/10.1111/fwb.13636" target="_blank">here</a>.
 :::
-::::::::
+:::
