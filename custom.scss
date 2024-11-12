@@ -140,12 +140,11 @@ footer {
         width: 100vw;
         height: 100vh;
         object-fit: cover; /* Crop image if necessary */
-        object-position: center;
-        position: absolute; /* Position absolute to ensure full coverage */
-        //top: 0; /* Align to the top */
+        position: fixed; /* Position absolute to ensure full coverage */
+        top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
         transform: translateX(-50%); /* Center using transform */
-        //z-index: -1; /* Ensure the image stays behind other content */
+        z-index: -1; /* Ensure the image stays behind other content */
     }
     
     body {
