@@ -156,23 +156,21 @@ footer {
     }
     
     body {
-        padding-top: 100px; /* Adjust padding for mobile */
         margin-top: 100px; /* Add space between navbar and body */
         font-size: 16px; /* Comfortable font size */
     }
 
     h1 {
-        padding-top: 100px; /* Adjust padding for mobile */
         margin-top: 100px; /* Adjust the value as needed */
         font-size: 24px; /* Smaller heading size for mobile */
     }
 
     .navbar-title {
-        font-size: 100%; /* Adjust navbar title size */
+        //font-size: 100%; /* Adjust navbar title size */
     }
 
     .navbar-nav {
-        font-size: 80%; /* Adjust navbar font size */
+        //font-size: 80%; /* Adjust navbar font size */
     }
     
     .quarto-header {
@@ -180,12 +178,11 @@ footer {
         top: 0;
         width: 100%;
         z-index: 999;
-        margin-top: 0; /* Remove any extra margin */
+        margin-top: -30px; /* Remove any extra margin */
     }
 
     .container {
         display: block; /* Change layout for smaller screens */
-        padding: 100px; /* Adjust container padding */
     }
 
     /* Adjust buttons */
