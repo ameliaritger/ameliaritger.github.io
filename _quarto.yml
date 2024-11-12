@@ -19,7 +19,7 @@ website:
     foreground: "#000000"
     search: true
     right:
-      - text: Research Areas
+      - text: Research
         href: research.qmd
       - text: Projects
         href: projects.qmd     
