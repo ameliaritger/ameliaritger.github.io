@@ -116,14 +116,7 @@ footer {
 	}
 }
 
-
-/* Styles for landing page image */
 .landing-image {
-    //width: 100%; /* Make the image responsive */
-    //max-width: 1600px; /* Set a maximum width */
-    //height: auto; /* Maintain aspect ratio */
-    //margin: 20px auto; /* Center the image with margin */
-    
     width: 100%; /* Maintain original width */
     height: auto; /* Maintain original height */
     max-width: 2000px; /* Limit to the width of the container */
@@ -140,7 +133,7 @@ footer {
         width: 100vw;
         height: 100vh;
         object-fit: cover; /* Crop image if necessary */
-        position: fixed; /* Position absolute to ensure full coverage */
+        position: absolute; /* Position absolute to ensure full coverage */
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
         transform: translateX(-50%); /* Center using transform */
