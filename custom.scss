@@ -164,12 +164,13 @@ footer {
         top: 0;
         width: 100%;
         z-index: 999;
-        margin-bottom: -30px; /* Remove any extra margin */
+        margin-top: 0;
+        //margin-bottom: -30px; /* Remove any extra margin */
     }
 
     .container {
         display: block; /* Change layout for smaller screens */
-        padding: 0; /* Adjust container padding */
+        padding: 5px; /* Adjust container padding */
     }
 
     /* Adjust buttons */
