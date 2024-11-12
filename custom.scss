@@ -144,6 +144,7 @@ footer {
         top: 0; /* Align to the top */
         left: 50%; /* Center horizontally */
         transform: translateX(-50%); /* Center using transform */
+        z-index: -1; /* Ensure the image stays behind other content */
     }
     
     body {
