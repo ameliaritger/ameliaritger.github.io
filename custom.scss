@@ -27,7 +27,7 @@ h1 {
 }
 
 body {
-  padding-bottom: 20px; /* Optional: to ensure there's space between body content and footer */
+  padding-bottom: 20px;
 }
 
 //footer {
@@ -64,7 +64,6 @@ body {
 }
 
 .flier > * {
-/* Adjust animation duration to change the element’s speed */
   animation: fly 50s linear infinite;
   pointer-events: none !important;
 	top: 0;
@@ -74,11 +73,6 @@ body {
 	animation-delay: 1s;
 	z-index: 999999;
 }
-
- /* Keyframe values control where the element will begin
-    and end its trajectory across the screen. Each rule
-    represents a path the element follows across the screen. */
-
 
 @keyframes fly {
 
@@ -140,14 +134,10 @@ body {
     }
     
     body {
-        //padding-top: 10px; /* Adjust padding for mobile */
-        //margin-top: 10px; /* Add space between navbar and body */
         font-size: 16px; /* Comfortable font size */
     }
 
     h1 {
-        //padding-top: 10px; /* Adjust padding for mobile */
-        //margin-top: 100px; /* Adjust the value as needed */
         font-size: 24px; /* Smaller heading size for mobile */
     }
 
@@ -164,14 +154,10 @@ body {
         top: 0;
         width: 100%;
         z-index: 999;
-        //margin-top: 0;
-        margin-bottom: 100px; /* Remove any extra margin */
     }
 
     .container {
         display: block; /* Change layout for smaller screens */
-        //margin-top: 100px;
-        //padding: 0; /* Adjust container padding */
     }
 
     /* Adjust buttons */
