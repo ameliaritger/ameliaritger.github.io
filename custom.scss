@@ -30,10 +30,10 @@ body {
   padding-bottom: 20px; /* Optional: to ensure there's space between body content and footer */
 }
 
-footer {
-  border-top: 1px solid #000; /* Adds a solid black line above the footer */
-  padding-top: 10px; /* Optional: space between the line and footer content */
-}
+//footer {
+//  border-top: 1px solid #000; /* Adds a solid black line above the footer */
+//  padding-top: 10px; /* Optional: space between the line and footer content */
+//}
 
 .blink {
   animation: blink 1s steps(1, end) infinite;
@@ -147,7 +147,7 @@ footer {
 
     h1 {
         //padding-top: 10px; /* Adjust padding for mobile */
-        margin-top: 100px; /* Adjust the value as needed */
+        //margin-top: 100px; /* Adjust the value as needed */
         font-size: 24px; /* Smaller heading size for mobile */
     }
 
@@ -165,12 +165,12 @@ footer {
         width: 100%;
         z-index: 999;
         //margin-top: 0;
-        //margin-bottom: -30px; /* Remove any extra margin */
+        margin-bottom: 100px; /* Remove any extra margin */
     }
 
     .container {
         display: block; /* Change layout for smaller screens */
-        margin-top: 100px;
+        //margin-top: 100px;
         //padding: 0; /* Adjust container padding */
     }
 
