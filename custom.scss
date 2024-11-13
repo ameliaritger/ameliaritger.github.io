@@ -147,7 +147,7 @@ footer {
 
     h1 {
         //padding-top: 10px; /* Adjust padding for mobile */
-        //margin-top: 10px; /* Adjust the value as needed */
+        margin-top: 100px; /* Adjust the value as needed */
         font-size: 24px; /* Smaller heading size for mobile */
     }
 
@@ -164,12 +164,13 @@ footer {
         top: 0;
         width: 100%;
         z-index: 999;
-        margin-top: 100px;
+        //margin-top: 0;
         //margin-bottom: -30px; /* Remove any extra margin */
     }
 
     .container {
         display: block; /* Change layout for smaller screens */
+        margin-top: 100px;
         //padding: 0; /* Adjust container padding */
     }
 
