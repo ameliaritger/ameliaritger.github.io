@@ -6,7 +6,7 @@ format:
   html:
     css: tabs.css
 
-editor: visual
+editor: source
 ---
 
 ::: panel-tabset
@@ -34,7 +34,7 @@ In the context of marine heatwaves, working with the strawberry anemone allows m
 
 I am using a Raspberry Pi to recreate marine heatwaves in the lab, and measure the impacts of different marine heatwave intensities on strawberry anemones. Check out my <a href="https://ameliaritger.github.io/projects.html" target="_blank">Projects</a> for more information on progress to date.
 
-Check out my <a href="https://github.com/ameliaritger/MHWsim" target="_blank">Github repository</a> for my research-in-progress on strawberry anemones, including documentation on how to build the Raspberry Pi-based Marine Heatwave Simulator. I also have Github repositories for my previous research with strawberry anemones, including <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">correlating body size measurements</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">measuring urchin deterrence between genets</a>.
+Check out my <a href="https://github.com/ameliaritger/MHWsim" target="_blank">Github repository</a> for my research-in-progress on strawberry anemones, including documentation on how to build the Raspberry Pi-based Marine Heatwave Simulator. I also have Github repositories for my past research with strawberry anemones, including <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-measurements" target="_blank">correlating body size measurements</a> and <a href="https://github.com/ameliaritger/Ritger-2019-Corynactis-urchin-deterrence" target="_blank">measuring urchin deterrence between color morphs</a>.
 
 # Ocean Acidification
 
