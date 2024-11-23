@@ -27,13 +27,13 @@ h1 {
 }
 
 body {
-  padding-bottom: 20px; /* Optional: to ensure there's space between body content and footer */
+  padding-bottom: 20px;
 }
 
-footer {
-  border-top: 1px solid #000; /* Adds a solid black line above the footer */
-  padding-top: 10px; /* Optional: space between the line and footer content */
-}
+//footer {
+//  border-top: 1px solid #000; /* Adds a solid black line above the footer */
+//  padding-top: 10px; /* Optional: space between the line and footer content */
+//}
 
 .blink {
   animation: blink 1s steps(1, end) infinite;
@@ -64,7 +64,6 @@ footer {
 }
 
 .flier > * {
-/* Adjust animation duration to change the element’s speed */
   animation: fly 50s linear infinite;
   pointer-events: none !important;
 	top: 0;
@@ -74,11 +73,6 @@ footer {
 	animation-delay: 1s;
 	z-index: 999999;
 }
-
- /* Keyframe values control where the element will begin
-    and end its trajectory across the screen. Each rule
-    represents a path the element follows across the screen. */
-
 
 @keyframes fly {
 
@@ -140,14 +134,10 @@ footer {
     }
     
     body {
-        //padding-top: 10px; /* Adjust padding for mobile */
-        //margin-top: 10px; /* Add space between navbar and body */
         font-size: 16px; /* Comfortable font size */
     }
 
     h1 {
-        //padding-top: 10px; /* Adjust padding for mobile */
-        //margin-top: 10px; /* Adjust the value as needed */
         font-size: 24px; /* Smaller heading size for mobile */
     }
 
@@ -156,7 +146,7 @@ footer {
     }
 
     .navbar-nav {
-        font-size: 80%; /* Adjust navbar font size */
+        font-size: 90%; /* Adjust navbar font size */
     }
     
     .quarto-header {
@@ -164,12 +154,10 @@ footer {
         top: 0;
         width: 100%;
         z-index: 999;
-        margin-top: 0; /* Remove any extra margin */
     }
 
     .container {
         display: block; /* Change layout for smaller screens */
-        padding: 0; /* Adjust container padding */
     }
 
     /* Adjust buttons */
