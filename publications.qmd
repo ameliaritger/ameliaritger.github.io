@@ -5,9 +5,9 @@ toc: false
 editor: visual
 ---
 
-**Ritger, A.L.**, and Hofmann, G.H. Bringing Heatwaves into the Lab: A low-cost, open-source, and automated system to simulate realistic heating events in an experimental setting. Limnology and Oceanography: Methods.
+**Ritger, A.L.**, and Hofmann, G.E. Bringing Heatwaves into the Lab: A low-cost, open-source, and automated system to simulate realistic heating events in an experimental setting. Limnology and Oceanography: Methods.
 
-Chan, K.Y.K., Kui, L., McDonald, A.M., **Ritger, A.L.**, and Hofmann, G.H. Coastal marine heatwaves in the Santa Barbara Channel: decadal trends and ecological implications. Frontiers in Marine Science.
+Chan, K.Y.K., Kui, L., McDonald, A.M., **Ritger, A.L.**, and Hofmann, G.E. Coastal marine heatwaves in the Santa Barbara Channel: decadal trends and ecological implications. Frontiers in Marine Science.
 
 **Ritger, A.L.** and Burnett, D.C. 2024. <a href="https://ieeexplore.ieee.org/document/10244512" target="_blank">A Wirelessly-Enabled, Power-Optimized, Low-Cost, and Open-Source Durafet-based pH Instrument for Continuous, Long Term Environmental Monitoring.</a> OCEANS 2024 - Singapore. 1-6. <a href="files/Ritger-and-Burnett-2024.pdf" target="_blank">PDF</a>
 
