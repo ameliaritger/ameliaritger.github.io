@@ -30,7 +30,7 @@ website:
   page-footer: 
     background: "#F0EBDE"
     left: 
-      - "Copyright 2024, Amelia Ritger"
+      - "Copyright 2025, Amelia Ritger"
     right:
       - <a href='https://github.com/ameliaritger/ameliaritger.github.io' target='_blank' style='color:#E84C22'>Designed</a> with <a href='https://quarto.org/' target='_blank' style='color:#39729E'>Quarto</a>
   

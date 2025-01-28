@@ -5,7 +5,7 @@ toc: false
 editor: visual
 ---
 
-**Ritger, A.L.**, and Hofmann, G.E. Bringing Heatwaves into the Lab: A low-cost, open-source, and automated system to simulate realistic heating events in an experimental setting. Limnology and Oceanography: Methods.
+**Ritger, A.L.**, and Hofmann, G.E. 2024. <a href="http://dx.doi.org/10.1002/lom3.10663" target="_blank">Bringing Heatwaves into the Lab: A low-cost, open-source, and automated system to simulate realistic heating events in an experimental setting.</a> Limnology and Oceanography: Methods: 1-10. <a href="files/Ritger-and-Hofmann-2024.pdf" target="_blank">PDF</a>
 
 Chan, K.Y.K., Kui, L., McDonald, A.M., **Ritger, A.L.**, and Hofmann, G.E. 2024. <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1476542/" target="_blank">Coastal marine heatwaves in the Santa Barbara Channel: decadal trends and ecological implications.</a> Frontiers in Marine Science 11: 1476542. <a href="files/Chan-et-al-2024.pdf" target="_blank">PDF</a>
 
